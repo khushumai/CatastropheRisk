@@ -1,4 +1,4 @@
-# CatastropheRisk
+# 🌪️ Catastrophe Risk Simulation (Hurricane Loss Estimator)
 Estimate insured losses from synthetic hurricane events using Monte Carlo simulation techniques. This model demonstrates basic catastrophe modeling logic, suitable for reinsurance risk analysis.
 
 This project models the **insured losses from hurricanes** across a synthetic coastal property portfolio using **NOAA HURDAT2 storm data** and **Monte Carlo simulation**. It includes **Exceedance Probability (EP) curves**, **100-year and 10-year Probable Maximum Loss (PML)** estimates, and **forecasting of hurricane impacts over the next 10 years**.
